@@ -33,11 +33,10 @@ Group memberes: Bill Tang, Peiwen Zhang, Keryan Cossard
 
 ## Contributions
 
-Bill Tang: Model, virtual navigation, Canvas + 3D TextMeshPro, 3D audio implementation, timer counts implementation, 
+Bill Tang: Model, virtual navigation, Canvas + 3D TextMeshPro, 3D audio implementation, timer counts implementation, video, readme, git consolidation
 
 Peiwen Zhang: Main scene setup (finding and modifying the museum, setting up the dinosaur bones, dinosaur description board and texts)
 
 Keryan Cossard: finding models, interaction design and implementation, the outside dinosaur scene
-
 
 
